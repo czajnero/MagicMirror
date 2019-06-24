@@ -1,0 +1,25 @@
+/*****************************************************
+ * Magic Mirror                                      *
+ * Custom CSS                                        *
+ *                                                   *
+ * By Michael Teeuw http://michaelteeuw.nl           *
+ * MIT Licensed.                                     *
+ *                                                   *
+ * Add any custom CSS below.                         *
+ * Changes to this files will be ignored by GIT. *
+ *****************************************************/
+/*
+ body * {
+	font-family: "acherus";
+ }
+
+@font-face {
+	font-family: "acherus";
+	font-style: normal;
+	font-weight: 100;
+	src:
+	  local("acherus"),
+	  url("/fonts/acherus.otf") format("truetype");
+}
+
+*/
